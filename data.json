@@ -1,0 +1,316 @@
+{
+  "itinerari": [
+    {
+      "id": "Keats_Vita",
+      "nome": "Ultimo soggiorno romano",
+      "sottotitolo": "Tra poesia, malattia e desiderio di vita",
+      "personaggio": {
+        "nome": "John Keats",
+        "anni": "1795-1821",
+        "professione": "Poeta",
+        "nazionalita": "Britannica",
+        "biografia_breve": "John Keats fu un poeta romantico inglese celebre per le sue odi sulla bellezza, la natura e la fugacità della vita. Morì giovane di tubercolosi a Roma, dove si trasferi in un appartamento vicino a Piazza di Spagna negli ultimi mesi di vita",
+        "immagine": "assets/personaggi/Keats.jpg",
+        "opere_correlate": [
+          "Keats-Shelley House",
+          "Fontana della Barcaccia",
+          "Passeggiata del Pincio",
+          "Cimitero Acattolico di Roma"
+        ]
+      },
+      "tema": "Sulle tracce della bellezza effimera: Roma secondo John Keats",
+      "categoria": "Poesia e Cultura",
+      "durata_totale_ore": 5,
+      "difficolta": "facile",
+      "immagine_copertina": "https://i.postimg.cc/vBTZ80mN/copertina-app-john-Keats.png",
+      "distanza_totale_km": 5.5,
+      "periodo_consigliato": "Inverno",
+      "stagione_migliore": ["Febbraio"],
+      "descrizione": "Passeggiata tra i luoghi romani di John Keats, alla scoperta della sua vita, della sua poesia e del legame tra bellezza e fugacità",
+      "note_logistiche": "Verificare orari di apertura dei luoghi di interesse, coprirsi bene dato che il tempo è imprevedibile, munirsi di tutto il necessario e organizzarsi in anticipo per soste extra",
+      "accessibilita": "Tutte le tappe sono accessibili a piedi, non necessari mezzi pubblici o altri mezzi di trasporto",
+      "costo_stimato": "Gratuito (eccetto ingressi della Keats-Shelley House (costo di 6 euro per gli adulti, 5 euro per minori di 18 anni e over 65) e del Cimitero Acattolico(richiede una doazione suggerita di 3 euro per il mantenimento del luogo))",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "casa_Keats",
+          "orario_consigliato": "12:00",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 60,
+          "coordinate": [41.90576,12.48250],
+          "nome": "Keats-Shelley House",
+          "descrizione_breve": "Situata di fianco a Piazza di Spagna, è il museo dedicato ai poeti romantici inglesi allestito nella casa dove morì john Keats nel 1821",
+          "indicazioni_arrivo": "Metro A Spagna",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Adagio sostenuto",
+              "brano_completo": "Piano Sonata No. 14 “Moonlight” – I movimento",
+              "compositore": "Ludwig van Beethoven",
+              "durata_sec": 360,
+              "tonalita": "Do diesis minore",
+              "organico": "Pianoforte solo",
+              "anno_composizione": 1801,
+              "descrizione_musicale": "Atmosfera intima e malinconica, con arpeggi continui che evocano quiete e fragilità emotiva.",
+              "youtube_url": "https://youtu.be/5GOE3w2ZUrQ?si=uYH2dQnXrLnCvQXU",
+              "file_audio": "audio/Beethoven - Moonlight Sonata 1st Movement_128k.mp3",
+              "note_ascolto": "Ascolta a volume basso, possibilmente con cuffie, per cogliere le sfumature più sottili e contemplative."
+            },
+            "letteratura": {
+              "citazione": "A thing of beauty is a joy for ever.",
+              "autore": "John Keats",
+              "opera": "Endymion",
+              "anno": 1818,
+              "contesto": "Verso iniziale del poema che esprime l’idea romantica della bellezza come fonte eterna di consolazione, centrale anche negli ultimi mesi romani del poeta."
+            },
+            "atmosfera": {
+              "momento": "Mezzogiorno",
+              "luce": "Calda ma attenuata, filtrata dalle finestre storiche",
+              "suoni_ambiente": [
+                "Passi ovattati",
+                "lieve brusio turistico",
+                "eco della scalinata di Piazza di Spagna"
+              ],
+              "temperatura_stimata": "12-14°C",
+              "affollamento": "Moderato, con picchi turistici nelle ore centrali",
+              "consiglio_fotografico": "Scatta vicino alle finestre per sfruttare la luce naturale morbida e creare contrasti delicati.",
+              "emozione_target": "Nostalgia contemplativa, senso di bellezza fragile e sospesa"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Tardo rinascimentale con adattamenti settecenteschi",
+              "architetti": "Non attribuzione certa; modifiche nel tempo da maestranze romane",
+              "anno_costruzione": "XVII secolo",
+              "committente": "Famiglie nobili romane (proprietà privata prima del museo)",
+              "descrizione": "Edificio elegante e discreto ai piedi di Piazza di Spagna, con interni raccolti che conservano l’atmosfera dell’ultima dimora di Keats."
+            }
+          },
+          "storia": "John Keats arrivò a Roma nel 1820 per cercare sollievo dalla tubercolosi. Visse in questa casa fino alla sua morte nel 1821, assistito dall’amico Joseph Severn. La stanza in cui morì è oggi uno dei luoghi più toccanti del museo.",
+          "curiosita": "Dopo la morte di John Keats, per paura del contagio della tubercolosi, gran parte degli arredi della stanza venne bruciata. Questo significa che ciò che si vede oggi è una ricostruzione, ma proprio per questo il luogo conserva un’aura ancora più intensa e simbolica.",
+          "metadata": {
+            "accessibilita": "Adulti 6 euro, Under 18/Over 65 5 euro, Under 6 gratis",
+            "orari_standard": "lunedi-sabato 10:00-13:00/14:00-18:00, domenica chiuso",
+            "servizi": ["visite guidate", "bookshop", "biblioteca specializzata sul romantiismo","terrazze panoramiche su Piazza di Spagna"]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "barcaccia_fontana",
+          "orario_consigliato": "13:30",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 15,
+          "coordinate": [41.90581,12.48225],
+          "nome": "Fontana della Barcaccia",
+          "descrizione_breve": "Dalla casa di John Keats in Piazza di Spagna, il suono costante dell’acqua della Fontana della Barcaccia filtrava nella stanza come un sottofondo continuo e familiare.",
+          "indicazioni_arrivo": "Da Keats-Shelley House: 20 metri a piedi",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "1 min",
+            "metro": "no",
+            "distanza_km": 0.02
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Largo",
+              "brano_completo": "Ombra mai fu (da Serse)",
+              "compositore": "George Frideric Handel",
+              "durata_sec": 210,
+              "tonalita": "Fa maggiore",
+              "organico": "Voce solista e orchestra ",
+              "anno_composizione": 1738,
+              "descrizione_musicale": "Linea melodica pura e sospesa, che richiama calma e contemplazione, come l’acqua lenta della fontana.",
+              "youtube_url": "https://youtu.be/uMlxM69ZJFA?si=BUZ2YqNcwWkFhOTO",
+              "file_audio": "audio/Handel - Largo from Xerxes (Ombra mai fu)_128k.mp3",
+              "note_ascolto": "Ascolta all’aperto, vicino all’acqua, lasciando che il suono reale della fontana si mescoli alla musica"
+            },
+            "letteratura": {
+              "citazione": "My heart aches, and a drowsy numbness pains my sense…",
+              "autore": "John Keats",
+              "opera": "Ode to a Nightingale",
+              "anno": 1819,
+              "contesto": "Scritta poco prima del viaggio a Roma, riflette la fragilità della vita e il desiderio di trascendere il dolore, sentimenti che accompagnarono Keats nei suoi ultimi mesi a pochi passi dalla fontana."
+            },
+            "atmosfera": {
+              "momento": "Primo pomeriggio",
+              "luce": "brillante, che illumina l'acqua e la pietra",
+              "suoni_ambiente": "Scorrere continuo dell’acqua, voci turistiche, passi sulla piazza",
+              "temperatura_stimata": "12-15°C",
+              "affollamento": "Medio-alto, soprattutto nei weekend",
+              "consiglio_fotografico": "Scatta con esposizione leggermente bassa per valorizzare riflessi e texture dell’acqua.",
+              "emozione_target": "Malinconia dolce, contemplazione urbana"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco romano",
+              "architetti": ["Pietro Bernini","Gian Lorenzo Bernini"],
+              "anno_costruzione": "1627–1629",
+              "committente": "Pope Urban VIII",
+              "materiali": "travertino",
+              "altezza_m": 2,
+              "descrizione": "Fontana a forma di barca semiaffondata, con acqua che trabocca dolcemente, integrata nel livello della piazza per evocare una piena del Tevere."
+            }
+          },
+          "storia": "La fontana fu progettata in un punto con bassa pressione idrica, motivo per cui l’acqua sgorga in modo delicato. Si trova ai piedi di Piazza di Spagna, proprio sotto la casa dove Keats visse i suoi ultimi mesi.",
+          "curiosita": "Si dice che la forma della barca sia ispirata a una leggenda: una barca sarebbe stata trasportata fin lì da una piena del Tevere.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["bar circostanti", "metro nelle vicinanze"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "pincio_passeggiata",
+          "orario_consigliato": "14:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 45,
+          "coordinate": [41.91115,12.47791],
+          "nome": "Passeggiata del Pincio",
+          "descrizione_breve": "La passeggiata del Pincio offriva a John Keats una vista silenziosa su Roma, dove il respiro della città si mescolava alla luce e ai giardini.",
+          "indicazioni_arrivo": "Da Piazza di Spagna 800 metri a piedi ",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "12 min",
+            "distanza_km": 0.8
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Andante con moto",
+              "brano_completo": "Symphony No. 6 “Pastoral” – II movimento (Scene by the Brook)",
+              "compositore": "Ludwig van Beethoven",
+              "durata_sec": 720,
+              "tonalita": "Fa maggiore",
+              "organico": "Orchestra sinfonica",
+              "anno_composizione": 1808,
+              "descrizione_musicale": "Flusso dolce e naturale, con sonorità che evocano acqua e paesaggi, perfette per accompagnare la vista su Roma.",
+              "youtube_url": "https://youtu.be/maKDp96mL64?si=GkbFKYKXZdD6mnPe",
+              "file_audio":"audio/Beethoven - Symphony No.6 in F major Op.68 - II. Andante ..._128k.mp3",
+              "note_ascolto": "Ascolta camminando lentamente lungo il belvedere, sincronizzando il ritmo dei passi con la musica."
+            },
+            "letteratura": {
+              "citazione": "Bright star, would I were stedfast as thou art…",
+              "autore": "John Keats",
+              "opera": "Bright Star",
+              "anno": 1819,
+              "contesto": "Sonetto scritto poco prima del viaggio a Roma, esprime il desiderio di eternità e contemplazione—sentimenti amplificati dalla vista aperta e senza tempo del Pincio."
+            },
+            
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "Brilante, ampia e panoramica sulla città",
+              "suoni_ambiente": [
+                "Musicisti di strada",
+                "vento leggero tra gli alberi",
+                "voci lontane",
+                "suoni uccellini"
+              ],
+              "temperatura_stimata": "11-14°C",
+              "affollamento": "Medio, più intenso al tramonto",
+              "consiglio_fotografico": "Scatta controluce verso la cupola di San Pietro per catturare silhouette e profondità urbana.",
+              "emozione_target": "Meraviglia contemplativa, senso di infinito e quiete"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Neoclassico paesaggistico",
+              "architetto": "Giuseppe Valadier",
+              "anno_costruzione": "Inizi XIX secolo (sistemazione 1810–1822)",
+              "committente": "Napoleone Bonaparte (nell’ambito della riorganizzazione urbana)",
+              "descrizione": "Terrazza panoramica sopra Piazza del Popolo, con viali alberati, statue e affacci scenografici che incorniciano Roma come un dipinto."
+            }
+          },
+          "storia": "Il Pincio fu trasformato in passeggiata pubblica durante l’età napoleonica, diventando uno dei primi spazi verdi urbani aperti ai cittadini. All’epoca di Keats, rappresentava già un luogo di contemplazione e fuga dalla città.",
+          "curiosita": "Il Pincio è uno dei luoghi preferiti dai romani per il tramonto: da qui si assiste ogni giorno a uno spettacolo naturale che cambia continuamente luce e colori sulla città eterna.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["Panchine panoramiche", "Chioschi e punti ristoro nelle vicinanze", "Noleggio biciclette e monopattini nei dintorni","Artisti di strada e intrattenimento spontaneo"]
+
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "cimitero_acattolico",
+          "orario_consigliato": "16:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 30,
+          "coordinate": [41.87635, 12.47948],
+          "nome": "Cimitero Acattolico di Roma",
+          "descrizione_breve": "Nel Cimitero Acattolico di Roma riposa John Keats, la cui semplice tomba in marmo è diventata un luogo di silenziosa memoria tra verde, margherite e violette",
+          "indicazioni_arrivo": "Dal Pincio proseguire a piedi per circa un'ora di camminata oppure scegliere alternative pi comode come i mezzi di trasporto (autobus 280), oppure servizi di monopattini e bici elettriche che offre Roma",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "64 min",
+            "autobus_piedi": "45 min",
+            "monopattino_bici": "20 min",
+            "distanza_km": 4.5
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Adagio",
+              "brano_completo": "Adagio for Strings",
+              "compositore": "Samuel Barber",
+              "durata_sec": 480,
+              "tonalita": "Si bemolle minore",
+              "organico": "Orchestra d’archi",
+              "anno_composizione": 1936,
+              "descrizione_musicale": "Lento crescendo emotivo, intenso e solenne, che accompagna perfettamente il raccoglimento del luogo.",
+              "youtube_url": "https://youtu.be/izQsgE0L450?si=yMhgxEzygSPjEEDf",
+              "file_audio":"audio/Samuel Barber - Adagio for Strings_128k.mp3",
+              "note_ascolto": "Ascolta in silenzio, fermandoti vicino alla tomba di Keats, lasciando che la musica segua il ritmo del respiro."
+            },
+            "letteratura": {
+              "citazione": "Here lies one whose name was writ in water.",
+              "autore": "John Keats",
+              "opera": "Epitaffio sulla sua tomba",
+              "anno": 1821,
+              "contesto": "Scelta dallo stesso Keats, esprime il timore di essere dimenticato, oggi smentito dalla sua fama immortale."
+            },
+            "atmosfera": {
+              "momento": "Mattina presto o tardo pomeriggio",
+              "luce": "Morbida, filtrata dagli alberi e dalle mura antiche",
+              "suoni_ambiente": [
+                "Silenzio",
+                "vento tra i cipressi",
+                "cinguettii di uccelli"
+              ],
+              "temperatura_stimata": "11-13°C ",
+              "affollamento": "Basso, ambiente raccolto e rispettoso",
+              "consiglio_fotografico": "Usa profondità di campo ridotta per isolare dettagli come epigrafi e statue.",
+              "emozione_target": "Raccoglimento, malinconia serena, contemplazione della memoria"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Eclettico funerario (neoclassico, gotico, romantico)",
+              "architetto": "Vari, non attribuzione unica",
+              "anno_costruzione": "Inizio XVIII secolo (uso documentato dal 1716)",
+              "committente": "Comunità straniera non cattolica a Roma",
+              "descrizione": "Spazio verde suggestivo ai piedi delle Mura Aureliane, con tombe monumentali immerse nella natura, tra sculture e iscrizioni poetiche."
+            }
+          },
+          "storia": "Il cimitero nacque per accogliere stranieri non cattolici a Roma. Qui fu sepolto Keats nel 1821; poco distante riposa anche Percy Bysshe Shelley, suo contemporaneo.",
+          "curiosita": "Sulla tomba di Keats non compare il suo nome, ma solo l’epitaffio: una scelta radicale che riflette la sua visione della fama e della fragilità umana.",
+          "metadata": {
+            "accessibilita": "offerta di 5 euro circa per la manutenzione del luogo",
+            "orari_standard": "lunedi-sabato aperto 9:00-17:00, domenica/festivi 9:00-13:00",
+            "servizi": ["Punto informazioni all’ingresso", "Mappe del cimitero per individuare le tombe celebri", "Visite guidate su prenotazione","Piccolo bookshop e area donazioni","Panchine per la sosta contemplativa"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (5 km a piedi)",
+        "Consigliato portare il pranzo a sacco per massimizzare i tempi e usufruire al meglio della pausa di 30 min tra la tappa 1 e la tappa 2",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Prenotare in anticipo l'ingresso alla Keats-Shelley House"
+      ],
+      "migliore_periodo_anno": "Febbraio, ultimo mese di vita di Keats a Roma (il Sole invernale è basso e dorato, capace di allungare le ombre accentuando il senso di solitudine tipico del Romanticismo inoltre periodo in cui iniziano a fiorire margherite e violette che Keats adorava)",
+      "sconsigliato": ["Non c'è un periodo sconsigliato in quanto questa passeggiata può esere intrapresa in qualsiasi momento dell'anno ma per sentirsi più vicino possibile all'esperienza di John Keats a Roma, Febbraio è il mese giusto"],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Ombrello in caso di pioggia",
+        "Snack vari",
+        "Biglietti per la metro",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
